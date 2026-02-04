@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 
-/**
+/** 
  * Analyzer for U.S. state renewable electricity data using ArrayList + Scanner + File I/O.
  * CSV expected: Location,TotalGenTWh,PercentRenewable,RenewableGenTWh,PercentOfUSRenewable,CO2MtPerTWh
  */
